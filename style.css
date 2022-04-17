@@ -140,7 +140,7 @@ p {
   color: hsl(0, 0%, 95%);
 }
 
-@media (max-width: 400px) {
+@media (max-width: 460px) {
   .main {
     margin-top: 10px;
   }
